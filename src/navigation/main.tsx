@@ -19,7 +19,7 @@ const MainStack = () => {
           backgroundColor: 'sky',
         },
         headerTitleStyle: {
-          color: '#963b3b'
+          color: '#91e25c'
         },
         headerTintColor: '#7de628'
       }

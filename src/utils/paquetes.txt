@@ -1,0 +1,2 @@
+npm install eslint-config-prettier eslint-config-standard eslint-plugin-import eslint-plugin-node
+npm intall eslint-plugin-prettier eslint-plugin-promise eslint-plugin-standard
